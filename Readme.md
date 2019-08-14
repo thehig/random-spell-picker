@@ -3,6 +3,7 @@
 ### Running spell-picker
 
 1. Clone repository `git clone https://github.com/thehig/random-spell-picker.git`
+1. Download source data via export from [5etools spells](https://5etools.com/spells.html) by clicking "Table View" => "Download CSV" and save as `data/Spells.csv`
 1. Open terminal in repository folder
 1. Run `npm start`
 
